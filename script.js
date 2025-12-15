@@ -826,7 +826,7 @@ SYNTAX : function (){}
 //     constructor(x, y){
 //         this.id = x;
 //         this.name = y;
-//     }
+//     }dggd
 //     getStudentName(){
 //         return Student name is ${this.name}
 //     }
